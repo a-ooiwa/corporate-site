@@ -45,7 +45,7 @@ header{
     background: white;
     margin: 0;
     padding:0;
-    display:none;
+    display: none;
     
     z-index: 100; 
 
@@ -133,7 +133,7 @@ footer{
 
 
 
-  @media (min-width: 551px) {
+  @media (min-width: 550px) {
 
     padding-top: 30px;
 
@@ -195,7 +195,7 @@ footer{
     }
 
   }
-  // min-width: 551p
+  // min-width: 550px
 
 
 }
@@ -245,10 +245,10 @@ div{
 
   padding-top:20px;
 
-  @media (min-width: 551px) {
+  @media (min-width: 550px) {
     padding-top: 30px;
   }
-  // min-width: 551px
+  // min-width: 550px
 
 
   .columns{
@@ -267,7 +267,7 @@ div{
       margin-top: 10px;
     }
 
-    @media (min-width: 551px) {
+    @media (min-width: 550px) {
 
       .service_title{
         @include fontsize(16);
@@ -279,7 +279,7 @@ div{
       }
 
     }
-    // min-width: 551px
+    // min-width: 550px
 
   }
   // .columns
@@ -291,7 +291,7 @@ div{
 
   background-color:$gray_blue;
 
-  @media (min-width: 551px) {
+  @media (min-width: 550px) {
 
     .container{
 
@@ -300,7 +300,7 @@ div{
     }
 
   }
-  // min-width: 551px
+  // min-width: 550px
 
   .news_title{
 
@@ -329,7 +329,7 @@ div{
   }
   // .news_lists
 
-  @media (min-width: 551px) {
+  @media (min-width: 550px) {
 
     .news_title{
 
@@ -359,7 +359,7 @@ div{
     // .news_lists
 
   }
-  // min-width: 551px
+  // min-width: 550px
 
 
 }
@@ -652,7 +652,7 @@ div{
     // .pc_navi_li
 
   }
-  // min-width: 551px
+  // min-width: 550px
   
   
   @media (max-width: 550px) {

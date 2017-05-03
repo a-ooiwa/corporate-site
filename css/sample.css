@@ -69,7 +69,7 @@ footer {
     font-size: 11px;
     font-size: 1.1rem;
     color: #b2e1ea; }
-  @media (min-width: 551px) {
+  @media (min-width: 550px) {
     footer {
       padding-top: 30px; }
       footer .foot_address {
@@ -89,10 +89,10 @@ footer {
           font-size: 1.1rem;
           background-image: url("../images/top/foot_arroehead.png");
           background-size: 4px 6px; } }
-      @media screen and (min-width: 551px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 551px) and (min-resolution: 2dppx) {
+      @media screen and (min-width: 550px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 550px) and (min-resolution: 2dppx) {
         footer .foot_navi li {
           background-image: url("../images/top/foot_arroehead@2x.png"); } }
-  @media (min-width: 551px) {
+  @media (min-width: 550px) {
         footer .foot_navi a {
           color: white;
           padding-left: 10px;
@@ -126,7 +126,7 @@ div {
 
 #service_area {
   padding-top: 20px; }
-  @media (min-width: 551px) {
+  @media (min-width: 550px) {
     #service_area {
       padding-top: 30px; } }
   #service_area .columns {
@@ -140,7 +140,7 @@ div {
       font-size: 15px;
       font-size: 1.5rem;
       margin-top: 10px; }
-    @media (min-width: 551px) {
+    @media (min-width: 550px) {
       #service_area .columns .service_title {
         font-size: 16px;
         font-size: 1.6rem; }
@@ -150,7 +150,7 @@ div {
 
 #news_area {
   background-color: #eaf2f4; }
-  @media (min-width: 551px) {
+  @media (min-width: 550px) {
     #news_area .container {
       padding: 0px 10% 50px 10%; } }
   #news_area .news_title {
@@ -170,7 +170,7 @@ div {
       font-weight: bold;
       display: block;
       margin-bottom: 3px; }
-  @media (min-width: 551px) {
+  @media (min-width: 550px) {
     #news_area .news_title {
       text-align: center;
       font-size: 22px;
